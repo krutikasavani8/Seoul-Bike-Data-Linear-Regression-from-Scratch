@@ -1,4 +1,4 @@
-# <p align = 'center'> Seoul-Bike-Forecast: Riding the Data Waves </p>
+# <p align = 'center'> Seoul-Bike-Prediction: Riding the Data Waves </p>
 
 ## Problem Statement:
 In many urban cities, the introduction of rental bikes has significantly enhanced mobility comfort. To ensure the availability and accessibility of rental bikes to the public at the right time, predicting the bike count required at each hour becomes crucial. This prediction aims to minimize waiting times and provide the city with a stable supply of rental bikes. This project focuses on implementing a predictive model to estimate the bike count based on various factors, including weather conditions.
