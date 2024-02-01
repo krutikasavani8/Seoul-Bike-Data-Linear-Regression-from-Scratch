@@ -32,3 +32,6 @@ Rainfall: Rainfall in mm
 Bike Count: Number of bikes rented per hour
 
 Date Information: Timestamps for each hour
+
+## Model used:
+Linear regression from scratch
